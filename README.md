@@ -8,9 +8,13 @@ Like many other fields that rely on statistical analyses to understand complex s
 * You must bring a laptop to class for hands on participation. If you do not own a laptop, come speak to me and the department should be able to furnish you a loaner for the duration of the course.
 
 ## Grading
-50% Homework
-25% Midterm
-25% Final
+* 50% Homework
+* 25% Midterm
+* 25% Final
+
+## Office Hours
+
+## TA Office Hours
 
 ## Sylabus
 Please note that the sylabus is subject to change. It is your responsibility to attend class in order to know what is going on.
