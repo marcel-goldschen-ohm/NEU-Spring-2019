@@ -9,7 +9,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 * You should install MATLAB on the laptop you will bring to class (see below).
 * You should attend class both motivated and prepared to work hard!
 
-## Install MATLAB
+## Install MATLAB (required)
 UT students have free access to MATLAB.
 
 1. Go to [www.mathworks.com] and create a user account. **Your user name MUST be your UT email address!**
