@@ -6,15 +6,22 @@ Like many other fields that rely on statistical analyses to understand complex s
 
 ## Class Requirements
 * You must bring a laptop to class for hands on participation. If you do not own a laptop, come speak to me and the department should be able to furnish you a loaner for the duration of the course.
+* You should install MATLAB on the laptop you will bring to class (see below).
+* You should attend class both motivated and prepared to work hard!
+
+## Install MATLAB
+UT students have free access to MATLAB.
+
+1. Go to [www.mathworks.com] and create a user account. **Your user name MUST be your UT email address!**
+2. Go to [UT Service Now](https://ut.service-now.com/utss/catalogoverview.do?sysparam_citems_id=f9d65c7c4ff9d200f6897bcd0210c77d&sysparam_cat_id=e0d08b13c3330100c8b837659bba8fb4,Information%20Technology&sys_click_name=features&sys_features=1) and request MATLAB. **Click the Request button in the MATLAB for Students Only box near the bottom of the page.** Your request may take a day or two to process, so don't delay.
+3. Sign in to your mathworks account and you should see a license from UT is available to you. Use that license to download MATLAB *plus all of the toolboxes that are accessible to you*.
+
+Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at [https://matlab.mathworks.com].
 
 ## Grading
 * 50% Homework
-* 25% Midterm
+* 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
 * 25% Final
-
-## Office Hours
-
-## TA Office Hours
 
 ## Sylabus
 Please note that the sylabus is subject to change. It is your responsibility to attend class in order to know what is going on.
