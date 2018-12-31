@@ -24,7 +24,14 @@ There are many ways to install python. This is the way I recommend.
 1. Go to [https://www.anaconda.com/download] and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
 2. Verify you are now using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
 
-There are many environments in which you can use Python including starting it in a shell by typing `>>> python`. I recommend launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder.
+There are many environments in which you can run Python including starting it in a shell by typing `>>> python`. I recommend launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder.
+
+## Install Julia (optional)
+Note, you can run Julia online at [https://juliabox.com] for free without having to install anything.
+
+1. Go to [https://juliacomputing.com/products/juliapro] and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
+
+Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. The above installation gives you Juno which is an environment similar to MATLAB in which you can run Julia.
 
 ## Grading
 * 50% Homework
