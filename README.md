@@ -4,7 +4,7 @@ Computational Tools and Data Analysis for Modern Neuroscience Spring 2019
 ## Course Objective
 Like many other fields that rely on statistical analyses to understand complex systems, it is the case for neuroscience that the tools needed to analyze and interpret data sets ever increasing in richness and size include interfacing with your data via code. In this course you will learn how to program as well as gain a sense of the available resources and options for scientific computing. To begin, you will use the MATLAB environment. However, many of the concepts learned there can be readily applied to other programming lanuages such as Python, R, Julia or C/C++, some of the pros and cons of which will be discussed, and possibly explored. Learning will largely be hands on, and will include working with any or all of the following as time permits: plotting and data visualization, probability distributions, differential equations, timeseries, fourier analysis, wavelets, Markov models, optimization, linear regression, Bayesian inference, clustering, principal component analysis, image analysis, machine and deep learning. Although not a prerequisite, you will invariably use linear algebra and calculus, which I will introduce as needed. Ultimately, the goal of this course is to provide you a basic computational toolset in order to provide a platform on which you can build your own custom analyses for arbitrarily complex data sets that are becoming more and more ubuquitous in modern neuroscience.
 
-## Class Requirements
+## Requirements
 * You need to bring a laptop to class for hands on participation. If you do not own a laptop, come speak to me and the department should be able to furnish you a loaner for the duration of the course.
 * You should install MATLAB on the laptop you will bring to class (see below).
 * You should attend class both motivated and prepared to work hard!
@@ -18,6 +18,14 @@ TA: ???
 
 ## Homework
 Homework #1 due ???
+
+## Grading
+* 50% Homework
+* 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
+* 25% Final
+
+## Sylabus
+Please note that the sylabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
@@ -41,12 +49,4 @@ Note, you can run Julia online at [https://juliabox.com] for free without having
 
 1. Go to [https://juliacomputing.com/products/juliapro] and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
 
-Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. Launching JuliaPro should launch Juno, which is an environment similar to MATLAB that can run Julia. 
-
-## Grading
-* 50% Homework
-* 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
-* 25% Final
-
-## Sylabus
-Please note that the sylabus is subject to change. It is your responsibility to attend class in order to know what is going on.
+Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. Launching JuliaPro should launch Juno, which is an environment similar to MATLAB that can run Julia.
