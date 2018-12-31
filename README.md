@@ -9,6 +9,11 @@ Like many other fields that rely on statistical analyses to understand complex s
 * You should install MATLAB on the laptop you will bring to class (see below).
 * You should attend class both motivated and prepared to work hard!
 
+## Office Hours (subject to change, so check here first!)
+?
+
+TA: ?
+
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
 
