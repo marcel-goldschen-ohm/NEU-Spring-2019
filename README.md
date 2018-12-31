@@ -12,9 +12,12 @@ Like many other fields that rely on statistical analyses to understand complex s
 * I hope that you will have fun!
 
 ## Office Hours (subject to change, so check here first!)
-?
+???
 
-TA: ?
+TA: ???
+
+## Homework
+Homework #1 due ???
 
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
