@@ -31,7 +31,7 @@ Note, you can run Julia online at [https://juliabox.com] for free without having
 
 1. Go to [https://juliacomputing.com/products/juliapro] and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
 
-Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. The above installation gives you Juno which is an environment similar to MATLAB in which you can run Julia.
+Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. Launching JuliaPro should launch Juno, which is an environment similar to MATLAB that can run Julia. 
 
 ## Grading
 * 50% Homework
