@@ -27,6 +27,22 @@ Homework #1 due ???
 ## Syllabus
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
+* Jan 22 - Course Intro, Intro to Programming, MATLAB crash course
+* Jan 24 - Random Walk Lab
+* Jan 29 - Probability Distributions
+* Jan 31 - p-Values, t-Tests and Maximum Likelihood
+
+* Clustering
+* Timeseries: Sampling, Correlation, Convolution, Filtering and Fourier Analysis
+* Timeseries: Features, Wavelets
+* Timeseries: Differential Equations, HMM
+* Linear Regression
+* Linear Regression
+* Principal Component Analysis
+* Model Training: Cross Validation, Bootstrap
+* Machine Learning
+* Deep Learning
+
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
 
