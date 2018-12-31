@@ -24,8 +24,8 @@ Homework #1 due ???
 * 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
 * 25% Final
 
-## Sylabus
-Please note that the sylabus is subject to change. It is your responsibility to attend class in order to know what is going on.
+## Syllabus
+Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
