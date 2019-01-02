@@ -66,3 +66,7 @@ Note, you can run Julia online at [https://juliabox.com] for free without having
 1. Go to [https://juliacomputing.com/products/juliapro] and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
 
 Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. Launching JuliaPro should launch Juno, which is an environment similar to MATLAB that can run Julia.
+
+## Resources
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+* [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
