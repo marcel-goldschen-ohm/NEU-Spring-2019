@@ -60,6 +60,10 @@ There are many ways to install python. This is the way I recommend.
 
 There are many environments in which you can run Python including starting it in a shell by typing `>>> python`. I recommend launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder.
 
+## Install R (optional)
+1. Go to [https://cran.revolutionanalytics.com/index.html] and download R. Run the installer.
+2. Go to [https://www.rstudio.com/] and download RStuio Desktop. This is an environment for running R that is similar to MATLAB.
+
 ## Install Julia (optional)
 Note, you can run Julia online at [https://juliabox.com] for free without having to install anything.
 
