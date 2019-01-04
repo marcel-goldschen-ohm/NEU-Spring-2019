@@ -4,6 +4,11 @@
 
 % Your name:
 
+%% Learning Goals:
+% - writing scripts
+% - coding good practices
+% - practice manipulating and visualizing multi-dimensional data arrays
+
 %% 1. Random walk in one dimension.
 % Write a program simulating a one-dimensional random walk amongst 100
 % discrete sites with the random walker having equal probability to step in
