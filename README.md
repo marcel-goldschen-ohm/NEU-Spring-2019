@@ -61,15 +61,6 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * May 09 (#30) 
 * May ?? - FINAL (maybe take home)
 
-* Clustering
-* Timeseries: Sampling, Correlation, Convolution, Filtering and Fourier Analysis
-* Timeseries: Features, Wavelets
-* Timeseries: Differential Equations, HMM
-* Principal Component Analysis
-* Model Training: Cross Validation, Bootstrap
-* Machine Learning
-* Deep Learning
-
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
 
