@@ -1,5 +1,5 @@
 # CompNeuroSpring2019
-Programming and Data Analysis for Modern Neuroscience Spring 2019
+Programming and Data Analysis for Modern Neuroscience, Spring 2019
 
 ## Course Objective
 Like many other fields that rely on statistical analyses to understand complex systems, it is the case for neuroscience that the tools needed to analyze and interpret data sets ever increasing in richness and size include interfacing with your data via code. In this course you will learn how to program as well as gain a sense of the available resources and options for scientific computing. To begin, you will use the MATLAB environment. However, many of the concepts learned there can be readily applied to other programming lanuages such as Python, R, Julia or C/C++, some of the pros and cons of which will be discussed, and possibly explored. *The best way to learn programming is by doing it*, so learning will largely be hands on through the application of relevant data analysis methods including signal processing, regression, classification, etc. Some linear algebra, calculus and geometry will be impossible to completely avoid, although not absolutely required to understand the major concepts. Ultimately, the goal of this course is to provide you a basic computational toolset in order to provide a platform on which you can build your own custom analyses for arbitrarily complex data sets that are becoming more and more ubuquitous in modern neuroscience.
@@ -27,48 +27,39 @@ Homework #1 due ???
 ## Syllabus
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* Jan 22 - Course Intro, Intro to Programming, MATLAB crash course
-* Jan 24 - Random Walk Lab
-* Jan 29 - Probability Distributions, Central Limit Theorem, p-Value, t-Test, Maximum Likelihood
-* Jan 31 - Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
-* Feb 05 - Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
-* Feb 07 - 
-* Feb 12 - 
-* Feb 14 - 
-* Feb 19 - 
-* Feb 21 - 
-* Feb 26 - 
-* Feb 28 - 
-* Mar 05 - 
-* Mar 07 - 
-* Mar 12 - 
-* Mar 14 - 
+* Jan 22 (#01) Course Intro, Intro to Programming, MATLAB crash course
+* Jan 24 (#02)  Random Walk Lab
+* Jan 29 (#03) Probability Distributions, Central Limit Theorem, p-Value, t-Test, Maximum Likelihood
+* Jan 31 (#04) Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
+* Feb 05 (#05) Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
+* Feb 07 (#06) 
+* Feb 12 (#07) 
+* Feb 14 (#08) 
+* Feb 19 (#09) 
+* Feb 21 (#10) 
+* Feb 26 (#11) 
+* Feb 28 (#12) 
+* Mar 05 (#13) 
+* Mar 07 (#14) 
+* Mar 12 (#15) 
+* Mar 14 (#16) 
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
-* Mar 26 - 
-* Mar 28 - 
-* Apr 02 - 
-* Apr 04 - 
-* Apr 09 - 
-* Apr 11 - 
-* Apr 16 - 
-* Apr 18 - 
-* Apr 23 - 
-* Apr 25 - 
-* Apr 30 - 
-* May 02 - 
-* May 07 - 
-* May 09 - 
-* May ?? - FINAL
-
-* Clustering
-* Timeseries: Sampling, Correlation, Convolution, Filtering and Fourier Analysis
-* Timeseries: Features, Wavelets
-* Timeseries: Differential Equations, HMM
-* Principal Component Analysis
-* Model Training: Cross Validation, Bootstrap
-* Machine Learning
-* Deep Learning
+* Mar 26 (#17) 
+* Mar 28 (#18) 
+* Apr 02 (#19) 
+* Apr 04 (#20) 
+* Apr 09 (#21) 
+* Apr 11 (#22) 
+* Apr 16 (#23) 
+* Apr 18 (#24) 
+* Apr 23 (#25) 
+* Apr 25 (#26) 
+* Apr 30 (#27) 
+* May 02 (#28) 
+* May 07 (#29) 
+* May 09 (#30) 
+* May ?? - FINAL (maybe take home)
 
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
