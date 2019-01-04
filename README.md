@@ -17,7 +17,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 TA: ???
 
 ## Homework
-Homework #1 due ???
+Homework #1 (random walk lab) due Jan 29
 
 ## Grading
 * 50% Homework
@@ -28,7 +28,7 @@ Homework #1 due ???
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 * Jan 22 (#01) Course Intro, Intro to Programming, MATLAB crash course
-* Jan 24 (#02)  Random Walk Lab
+* Jan 24 (#02) Random Walk Lab
 * Jan 29 (#03) Probability Distributions, Central Limit Theorem, p-Value, t-Test, Maximum Likelihood
 * Jan 31 (#04) Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
 * Feb 05 (#05) Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
