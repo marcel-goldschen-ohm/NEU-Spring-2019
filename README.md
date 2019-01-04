@@ -29,15 +29,42 @@ Please note that the syllabus is subject to change. It is your responsibility to
 
 * Jan 22 - Course Intro, Intro to Programming, MATLAB crash course
 * Jan 24 - Random Walk Lab
-* Jan 29 - Probability Distributions
-* Jan 31 - p-Values, t-Tests and Maximum Likelihood
+* Jan 29 - Probability Distributions, Central Limit Theorem, p-Value, t-Test, Maximum Likelihood
+* Jan 31 - Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
+* Feb 05 - Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
+* Feb 07 - 
+* Feb 12 - 
+* Feb 14 - 
+* Feb 19 - 
+* Feb 21 - 
+* Feb 26 - 
+* Feb 28 - 
+* Mar 05 - 
+* Mar 07 - 
+* Mar 12 - 
+* Mar 14 - 
+* Mar 19 - SPRING BREAK
+* Mar 21 - SPRING BREAK
+* Mar 26 - 
+* Mar 28 - 
+* Apr 02 - 
+* Apr 04 - 
+* Apr 09 - 
+* Apr 11 - 
+* Apr 16 - 
+* Apr 18 - 
+* Apr 23 - 
+* Apr 25 - 
+* Apr 30 - 
+* May 02 - 
+* May 07 - 
+* May 09 - 
+* May ?? - FINAL
 
 * Clustering
 * Timeseries: Sampling, Correlation, Convolution, Filtering and Fourier Analysis
 * Timeseries: Features, Wavelets
 * Timeseries: Differential Equations, HMM
-* Linear Regression
-* Linear Regression
 * Principal Component Analysis
 * Model Training: Cross Validation, Bootstrap
 * Machine Learning
