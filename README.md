@@ -64,28 +64,28 @@ Please note that the syllabus is subject to change. It is your responsibility to
 ## Install MATLAB (required)
 UT students have free access to MATLAB.
 
-1. Go to [www.mathworks.com] and create a user account. **Your user name MUST be your UT email address!**
+1. Go to www.mathworks.com and create a user account. **Your user name MUST be your UT email address!**
 2. Go to [UT Service Now](https://ut.service-now.com/utss/catalogoverview.do?sysparam_citems_id=f9d65c7c4ff9d200f6897bcd0210c77d&sysparam_cat_id=e0d08b13c3330100c8b837659bba8fb4,Information%20Technology&sys_click_name=features&sys_features=1) and request MATLAB. **Click the Request button in the MATLAB for Students Only box near the bottom of the page.** Your request may take a day or two to process, so don't delay.
-3. Sign in to your mathworks account and you should see a license from UT is available to you. Use that license to download MATLAB *plus all of the toolboxes that are accessible to you*.
+3. Sign in to your mathworks account and you should see a license from UT is available to you. Use that license to download MATLAB (latest release is version 2018b). Then run the installer. If you can afford the space (~20 GB) *get all the toolboxes that you can*. If not, *get at least those toolboxes listed at https://www.mathworks.com/products.html under the sections 'Math, Statistics, and Optimization', 'Signal Processing', 'Image Processing' and 'Computational Biology'.*
 
-Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at [https://matlab.mathworks.com].
+Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at https://matlab.mathworks.com.
 
 ## Install Python (optional)
 There are many ways to install python. This is the way I recommend.
 
-1. Go to [https://www.anaconda.com/download] and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
+1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
 2. Verify you are now using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
 
 There are many environments in which you can run Python including starting it in a shell by typing `>>> python`. I recommend launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder.
 
 ## Install R (optional)
-1. Go to [https://cran.revolutionanalytics.com/index.html] and download R. Run the installer.
-2. Go to [https://www.rstudio.com/] and download RStuio Desktop. This is an environment for running R that is similar to MATLAB.
+1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
+2. Go to https://www.rstudio.com/ and download RStuio Desktop. This is an environment for running R that is similar to MATLAB.
 
 ## Install Julia (optional)
-Note, you can run Julia online at [https://juliabox.com] for free without having to install anything.
+Note, you can run Julia online at https://juliabox.com for free without having to install anything.
 
-1. Go to [https://juliacomputing.com/products/juliapro] and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
+1. Go to https://juliacomputing.com/products/juliapro and download JuliaPro. See the Quickstart Guide for OS specific installation instructions.
 
 Like Python, there are many environments in which you can run Julia including starting it in a shell by typing `>>> julia`. Launching JuliaPro should launch Juno, which is an environment similar to MATLAB that can run Julia.
 
