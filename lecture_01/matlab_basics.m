@@ -295,6 +295,14 @@ mystuff.x = 1;
 mystuff.name = 'so cool';
 mystuff
 
+%% Maps
+mymap = containers.Maps
+mymap('something') = 2;
+mymap('something else') = 25.3;
+keys(mymap)
+values(mymap)
+mymap('something else')
+
 %% Save data
 save('mydata.mat', 'A', 'b', 'mystuff');
 
