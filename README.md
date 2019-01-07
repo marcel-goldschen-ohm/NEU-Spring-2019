@@ -17,7 +17,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 TA: ???
 
 ## Homework
-Homework #1 (random walk lab) due Jan 29
+* Due Jan 29. Homework #1 (random walk lab)
 
 ## Grading
 * 50% Homework
