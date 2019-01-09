@@ -157,6 +157,15 @@ class(1 < 0)
 1 == 1 || 1 == 2
 1 == 0 || 1 == 2
 
+%% Finding array elements
+a = [1 2 3 4 5 5 5 6 7 8 9 10]
+lessthan5 = find(a < 5) % indices into a for values of a < 5
+morethan5 = find(a > 5) % indices into a for values of a > 5
+equalto5 = find(a == 5) % indices into a for values of a = 5
+a(lessthan5)
+a(morethan5)
+a(equalto5)
+
 %% If statement
 x = -5;
 y = 7;
