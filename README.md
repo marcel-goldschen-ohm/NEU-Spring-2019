@@ -39,8 +39,9 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Coding good practices.
   * Timing and efficient code.
 * Jan 29 (#03) Probability Distributions
-  * Discrete Probability Functions: e.g. Binomial, Poisson
+  * Discrete Probability Functions: e.g. Bernoulli, Binomial, Poisson
   * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
+  * Sample vs Distribution, e.g. Mean, Variance
   * Central limit theorem
   * z-score
   * p-value
