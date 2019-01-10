@@ -34,7 +34,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Fundamental principles of programming.
   * MATLAB crash course.
 * Jan 24 (#02) Random Walk Lab
-  * Practice translating problems to code.
+  * Translate problems to code.
   * Manipulate and visualize multi-dimensional arrays.
   * Coding good practices.
 * Jan 29 (#03) Probability Distributions
