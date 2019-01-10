@@ -40,7 +40,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Timing and efficient code.
 * Jan 29 (#03) Probability Distributions
   * Discrete Probability Functions: e.g. Binomial, Poisson
-  * Continuous Probability Density Functions: e.g. Gaussian/Normal, Exponential
+  * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
   * Central limit theorem
   * z-score
   * p-value
