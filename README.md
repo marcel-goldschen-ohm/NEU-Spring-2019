@@ -38,12 +38,12 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Manipulate and visualize multi-dimensional arrays.
   * Coding good practices.
 * Jan 29 (#03) Probability Distributions
-  * Gaussian/Normal distribution
+  * Discrete: e.g. Binomial, Poisson
+  * Continuous: e.g. Gaussian/Normal, Exponential
   * Central limit theorem
-  * z-statistic
+  * z-score
   * p-value
   * t-test
-  * Exponential distribution
   * Maximum Likelihood
 * Jan 31 (#04) Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
 * Feb 05 (#05) Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
