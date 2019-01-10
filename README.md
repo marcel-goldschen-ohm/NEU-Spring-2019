@@ -38,8 +38,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Manipulate and visualize multi-dimensional arrays.
   * Coding good practices.
 * Jan 29 (#03) Probability Distributions
-  * Discrete: e.g. Binomial, Poisson
-  * Continuous: e.g. Gaussian/Normal, Exponential
+  * Discrete Probability Functions: e.g. Binomial, Poisson
+  * Continuous Probability Density Functions: e.g. Gaussian/Normal, Exponential
   * Central limit theorem
   * z-score
   * p-value
