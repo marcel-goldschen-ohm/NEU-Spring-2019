@@ -44,6 +44,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * z-score
   * p-value
   * t-test
+  * Confidence intervals
   * Maximum Likelihood
 * Jan 31 (#04) Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
 * Feb 05 (#05) Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
