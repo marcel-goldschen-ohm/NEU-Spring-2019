@@ -37,6 +37,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * Translate problems to code.
   * Manipulate and visualize multi-dimensional arrays.
   * Coding good practices.
+  * Timing and efficient code.
 * Jan 29 (#03) Probability Distributions
   * Discrete Probability Functions: e.g. Binomial, Poisson
   * Continuous Probability Density Functions: e.g. Gaussian/Normal, Exponential
