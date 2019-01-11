@@ -112,7 +112,7 @@ There are many ways to install python. This is the way I recommend.
 There are many environments in which you can run Python including starting it in a shell by typing `>>> python` or launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder. I recommend using PyCharm.
 
 1. Download PyCharm at www.jetbrains.com/pycharm (get the free Community version as opposed to the Professional version).
-2. Create a new project for the class. !!! Select a folder that you will use for this class and then configure the *project interpreter* for **Conda Environment**, **Existing Environment**, with path to your Anaconda installation (on MacOSX it should be **/anaconda3/bin/python3**).
+2. Create a new project for the class. !!! Select a folder that you will use for this class as the *Project Location* and then configure the *Project Interpreter* for **Conda Environment**, **Existing Environment**, with path to your Anaconda installation (on MacOSX it should be **/anaconda3/bin/python3**).
 3. Install PyCharm Cell Mode plugin (go to Preferences->Plugin and search for "cell mode").
 
 ## Install R
