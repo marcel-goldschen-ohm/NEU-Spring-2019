@@ -17,7 +17,8 @@ Like many other fields that rely on statistical analyses to understand complex s
 TA: ???
 
 ## Homework
-* Due Jan 29 - Homework #1 (random walk lab)
+* Due Jan 29 - Homework #01 (random walk lab)
+* Due Feb 05 - Homework #02 (probability distributions)
 
 ## Grading
 * 50% Homework
@@ -29,15 +30,15 @@ Please note that the syllabus is subject to change. It is your responsibility to
 
 * Jan 22 (#01) Course Intro, Intro to Programming, MATLAB crash course
   * Why is programming an important tool?
-  * Very basic understanding of how machines run programs.
-  * Contrast/Compare several relevant programming languages.
-  * Fundamental principles of programming.
-  * MATLAB crash course.
+  * Very basic understanding of how machines run programs
+  * Contrast/Compare several relevant programming languages
+  * Fundamental principles of programming
+  * MATLAB crash course
 * Jan 24 (#02) Random Walk Lab
-  * Translate problems to code.
-  * Manipulate and visualize multi-dimensional arrays.
-  * Coding good practices.
-  * Timing and efficient code.
+  * Translate problems to code
+  * Manipulate and visualize multi-dimensional arrays
+  * Coding good practices
+  * Timing and efficient code
 * Jan 29 (#03) Probability Distributions
   * Discrete Probability Functions: e.g. Bernoulli, Binomial, Poisson
   * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
@@ -46,12 +47,26 @@ Please note that the syllabus is subject to change. It is your responsibility to
   * z-score
   * p-value
   * t-test
-  * Confidence intervals
+  * Confidence interval
+* Jan 31 (#04) Probability Distributions
+  * Bootstrap
   * Maximum Likelihood
-* Jan 31 (#04) Linear Regression, Correlation, R^2, Multiple Linear Regression, F-test, Correlated Error, Nonconstant Variance, Outliers, Leverage
-* Feb 05 (#05) Multiple Linear Regression, Interaction Terms, Polynomial Regression, Nonparametric KNN Regression
-* Feb 07 (#06) 
-* Feb 12 (#07) 
+  * Example problems
+* Feb 05 (#05) Statistical Inference Overview
+  * Bird's-eye view of modern statistical inference
+* Feb 07 (#06) Linear Regression
+  * Correlation
+  * R^2
+  * Outliers
+  * Leverage
+  * Nonconstant variance
+* Feb 12 (#07) Linear Regression
+  * Multiple Linear Regression
+  * F-test
+  * Correlated error
+  * Interaction terms
+  * Polynomial regression
+  * Nonparametric KNN regression
 * Feb 14 (#08) 
 * Feb 19 (#09) 
 * Feb 21 (#10) 
@@ -88,15 +103,20 @@ UT students have free access to MATLAB.
 
 Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at https://matlab.mathworks.com.
 
-## Install Python (optional)
+## Install Python
 There are many ways to install python. This is the way I recommend.
 
 1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
 2. Verify you are now using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
 
-There are many environments in which you can run Python including starting it in a shell by typing `>>> python`. I recommend launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder.
+There are many environments in which you can run Python including starting it in a shell by typing `>>> python` or launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder. I recommend using PyCharm.
 
-## Install R (optional)
+1. Download PyCharm at www.jetbrains.com/pycharm (get the free Community version as opposed to the Professional version).
+2. When it runs for the first time it may ask if you want to install several recommended add ons. Go ahead and install them expect for the vim editor (unless you know you love vim!).
+3. Create a new project. Pick a folder that you'll use for this class as the project location. For the project interpreter choose Conda Python.
+4. Install PyCharm cell mode plugin (go to Preferences->Plugin and search for "cell mode").
+
+## Install R
 1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
 2. Go to https://www.rstudio.com/ and download RStuio Desktop. This is an environment for running R that is similar to MATLAB.
 
