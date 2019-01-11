@@ -107,14 +107,13 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 There are many ways to install python. This is the way I recommend.
 
 1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
-2. Verify you are now using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
+2. Everything should now be installed. Just verify you are using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
 
 There are many environments in which you can run Python including starting it in a shell by typing `>>> python` or launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder. I recommend using PyCharm.
 
 1. Download PyCharm at www.jetbrains.com/pycharm (get the free Community version as opposed to the Professional version).
-2. When it runs for the first time it may ask if you want to install several recommended add ons. Go ahead and install them expect for the vim editor (unless you know you love vim!).
-3. Create a new project. Pick a folder that you'll use for this class as the project location. For the project interpreter choose Conda Python.
-4. Install PyCharm cell mode plugin (go to Preferences->Plugin and search for "cell mode").
+2. Create a new project for the class. !!! Select a folder that you will use for this class and then configure the *project interpreter* for **Conda Environment**, **Existing Environment**, with path to your Anaconda installation (on MacOSX it should be **/anaconda3/bin/python3**).
+3. Install PyCharm Cell Mode plugin (go to Preferences->Plugin and search for "cell mode").
 
 ## Install R
 1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
