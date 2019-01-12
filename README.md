@@ -29,44 +29,44 @@ TA: ???
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 * Jan 22 (#01) Course Intro, Intro to Programming, MATLAB crash course
-  * Why is programming an important tool?
-  * Very basic understanding of how machines run programs
-  * Contrast/Compare several relevant programming languages
-  * Fundamental principles of programming
-  * MATLAB crash course
+    * Why is programming an important tool?
+    * Very basic understanding of how machines run programs
+    * Contrast/Compare several relevant programming languages
+    * Fundamental principles of programming
+    * MATLAB crash course
 * Jan 24 (#02) Random Walk Lab
-  * Translate problems to code
-  * Manipulate and visualize multi-dimensional arrays
-  * Coding good practices
-  * Timing and efficient code
+    * Translate problems to code
+    * Manipulate and visualize multi-dimensional arrays
+    * Coding good practices
+    * Timing and efficient code
 * Jan 29 (#03) Probability Distributions
-  * Discrete Probability Functions: e.g. Bernoulli, Binomial, Poisson
-  * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
-  * Sample vs Distribution, e.g. Mean, Variance
-  * Central limit theorem
-  * z-score
-  * p-value
-  * t-test
-  * Confidence interval
+    * Discrete Probability Functions: e.g. Bernoulli, Binomial, Poisson
+    * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
+    * Sample vs Distribution, e.g. Mean, Variance
+    * Central limit theorem
+    * z-score
+    * p-value
+    * t-test
+    * Confidence interval
 * Jan 31 (#04) Probability Distributions
-  * Bootstrap
-  * Maximum Likelihood
-  * Example problems
+    * Bootstrap
+    * Maximum Likelihood
+    * Example problems
 * Feb 05 (#05) Statistical Inference Overview
-  * Bird's-eye view of modern statistical inference
+    * Bird's-eye view of modern statistical inference
 * Feb 07 (#06) Linear Regression
-  * Correlation
-  * R^2
-  * Outliers
-  * Leverage
-  * Nonconstant variance
+    * Correlation
+    * R^2
+    * Outliers
+    * Leverage
+    * Nonconstant variance
 * Feb 12 (#07) Linear Regression
-  * Multiple Linear Regression
-  * F-test
-  * Correlated error
-  * Interaction terms
-  * Polynomial regression
-  * Nonparametric KNN regression
+    * Multiple Linear Regression
+    * F-test
+    * Correlated error
+    * Interaction terms
+    * Polynomial regression
+    * Nonparametric KNN regression
 * Feb 14 (#08) 
 * Feb 19 (#09) 
 * Feb 21 (#10) 
@@ -112,9 +112,9 @@ There are many ways to install python. This is the way I recommend.
 There are many environments in which you can run Python including starting it in a shell by typing `>>> python` or launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder. I recommend using PyCharm.
 
 1. Download PyCharm at www.jetbrains.com/pycharm (get the free Community version as opposed to the Professional version).
-2. Create a new project for the class (**see steps 2.1-2 below**):
-  2.1 *Location*: Select a folder where you will keep your files.
-  2.2 *Project Interpreter*: Expand the dropdown and select Existing Environment. Then choose the path to the interpreter, which on MacOSX should be **/anaconda3/bin/python**. *Note: the path should be what is displayed when you run `which python` as described above.* When selecting the path you may get a new window with an option on the left to select Conda Environment (do that if you see this option, but only after you've first selected Existing Environment in the previous window).
+2. Create a new project for the class (**see below**):
+    1. *Location*: Select a folder where you will keep your files.
+    2. *Project Interpreter*: Expand the dropdown and select Existing Environment. Then choose the path to the interpreter, which on MacOSX should be **/anaconda3/bin/python**. *Note: the path should be what is displayed when you run `which python` as described above.* When selecting the path you may get a new window with an option on the left to select Conda Environment (do that if you see this option, but only after you've first selected Existing Environment in the previous window).
 3. Install PyCharm Cell Mode plugin (go to Preferences->Plugin and search for "cell mode"). Will require you to restart PyCharm.
 
 ## Install R
@@ -130,4 +130,3 @@ Like Python, there are many environments in which you can run Julia including st
 
 ## Resources
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-* [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
