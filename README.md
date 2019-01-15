@@ -54,7 +54,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Example problems
 * Feb 05 (#05) Statistical Inference Overview
     * Bird's-eye view of modern statistical inference
-    * Suggested prior reading: [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning
+    * *Suggested prior reading:* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning
 * Feb 07 (#06) Linear Regression
     * Correlation
     * R^2
