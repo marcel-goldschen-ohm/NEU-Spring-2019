@@ -20,7 +20,7 @@ TA: ???
 1. Random Walk Lab - due before class on Jan 29
 2. Probability Distributions Lab - due before class on Feb 05
 
-## Required Reading
+## Reading
 1. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning - Read before class on Feb 05
 
 ## Grading
