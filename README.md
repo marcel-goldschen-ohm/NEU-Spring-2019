@@ -98,15 +98,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
 There are many ways to install python. This is the way I recommend.
 
 1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
-2. Everything should now be installed. Just verify you are using Anaconda's versions of python, pip and jupyter. Open a shell (MacOS = Terminal, Windows = Command Prompt) and type `>>> which conda pip python jupyter` (for windows you may need to replace which with where). You should see the path to each of these programs in the output, which should be something like `/anaconda3/bin/...`.
-
-There are many environments in which you can run Python including starting it in a shell by typing `>>> python` or launching the Anaconda-Navigator and either opening a Jupyter Notebook which is a web-based python environment or using an environment that is similar to MATLAB such as Spyder. I recommend using PyCharm which is an environment similar to MATLAB.
-
-1. Download PyCharm at www.jetbrains.com/pycharm (get the free Community version as opposed to the Professional version).
-2. Create a new project for the class (**see below**):
-    1. *Location*: Select a folder where you will keep your files.
-    2. *Project Interpreter*: Expand the dropdown and select Existing Environment. Then choose the path to the interpreter, which on MacOSX should be **/anaconda3/bin/python**. *Note: the path should be what is displayed when you run `which python` as described above.* When selecting the path you may get a new window with an option on the left to select Conda Environment (do that if you see this option, but only after you've first selected Existing Environment in the previous window).
-3. Install PyCharm Cell Mode plugin (go to Preferences->Plugin and search for "cell mode"). Will require you to restart PyCharm.
+2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab.
+3. In Anaconda Navigator, go to the Environments tab and create a new environment that we'll use for this class. I named mine "neuroS2019", but you can call it whatever you want.
+4. Select your new environment and install the following packages: numpy, scipy, pandas, matplotlib, pyqt. To install each of these, choose Not Installed from the dropdown and search for the package by name. In the search results list check the box next to the package name, then click Apply in the bottom right corner.
+5. Launch Spyder. Go to Preferences->Python interpreter. Check 'Use the following python interpreter:' and select the python executable for the environment you created above. On MacOSX this should be something like '/anaconda3/envs/neuroS2019/python' (replace neuroS2019 with the environment name you chose). You may have to restart Spyder.
 
 ## Install R (optional)
 1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
