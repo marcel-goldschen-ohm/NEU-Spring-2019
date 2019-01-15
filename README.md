@@ -20,9 +20,6 @@ TA: ???
 1. Random Walk Lab - due before class on Jan 29
 2. Probability Distributions Lab - due before class on Feb 05
 
-## Reading
-1. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning - Read before class on Feb 05
-
 ## Grading
 * 50% Homework
 * 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
@@ -57,6 +54,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Example problems
 * Feb 05 (#05) Statistical Inference Overview
     * Bird's-eye view of modern statistical inference
+    * Suggested prior reading: [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning
 * Feb 07 (#06) Linear Regression
     * Correlation
     * R^2
