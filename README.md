@@ -17,8 +17,8 @@ Like many other fields that rely on statistical analyses to understand complex s
 TA: ???
 
 ## Homework
-* Due Jan 29 - Homework #01 (random walk lab)
-* Due Feb 05 - Homework #02 (probability distributions)
+* Due before class on Jan 29 - Homework #01 (random walk lab)
+* Due before class on Feb 05 - Homework #02 (probability distributions)
 
 ## Grading
 * 50% Homework
