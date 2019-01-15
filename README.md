@@ -21,7 +21,7 @@ TA: ???
 2. Probability Distributions Lab - due before class on Feb 05
 
 ## Required Reading
-1. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2 - Statistical Learning - Read before class on Feb 05
+1. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning - Read before class on Feb 05
 
 ## Grading
 * 50% Homework
