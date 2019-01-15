@@ -28,12 +28,12 @@ TA: ???
 ## Syllabus
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* Jan 22 (#01) Course Intro, Intro to Programming, MATLAB crash course
+* Jan 22 (#01) Course Intro, Intro to Programming, Python crash course
     * Why is programming an important tool?
     * Very basic understanding of how machines run programs
     * Contrast/Compare several relevant programming languages
     * Fundamental principles of programming
-    * MATLAB crash course
+    * Python crash course
 * Jan 24 (#02) Random Walk Lab
     * Translate problems to code
     * Manipulate and visualize multi-dimensional arrays
