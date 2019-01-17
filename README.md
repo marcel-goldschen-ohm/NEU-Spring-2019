@@ -51,6 +51,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Jan 31 (#04) Probability Distributions
     * Bootstrap
     * Maximum Likelihood
+    * Hypothesis testing
     * Example problems
 * Feb 05 (#05) Statistical Inference Overview
     * Bird's-eye view of modern statistical inference
@@ -68,10 +69,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Interaction terms
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 14 (#08) 
-* Feb 19 (#09) 
-* Feb 21 (#10) 
-* Feb 26 (#11) 
+* Feb 14 (#08) Cross Validation
+* Feb 19 (#09) Regression Lab
+* Feb 21 (#10) Clustering
+* Feb 26 (#11) Clustering Lab
 * Feb 28 (#12) 
 * Mar 05 (#13) 
 * Mar 07 (#14) 
@@ -79,10 +80,14 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Mar 14 (#16) 
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
-* Mar 26 (#17) 
-* Mar 28 (#18) 
-* Apr 02 (#19) 
-* Apr 04 (#20) 
+* Mar 26 (#17) Time Series
+    * Sampling
+    * Filtering
+    * Convolution
+    * Fourier analysis
+* Mar 28 (#18) Time Series
+* Apr 02 (#19) Hodgkin-Huxley Excitable Cell Model
+* Apr 04 (#20) Hidden Markov Models
 * Apr 09 (#21) 
 * Apr 11 (#22) 
 * Apr 16 (#23) 
@@ -96,13 +101,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * May ?? - FINAL (maybe take home)
 
 ## Install Python (required)
-There are many ways to install python. This is the way I recommend.
+There are many ways to install python. This is one way.
 
 1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
-2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab.
-3. In Anaconda Navigator, go to the Environments tab and create a new environment that we'll use for this class. Let's name it "neuroS2019". Select the latest version of Python (3.7 as of now) from the dropdown.
-4. Select your new environment and install the following packages: `numpy`, `scipy`, `pandas`, `matplotlib` and `pyqt`. To install each of these, choose Not Installed from the dropdown and search for the package by name. In the search results list check the box next to the package name, then click Apply in the bottom right corner. We'll be adding more packages later on, but for now this will get us started.
-5. Launch Spyder. Go to Preferences->Python interpreter. Check 'Use the following python interpreter:' and select the python executable for the environment you created above. The location will depend on your OS and whether you installed for all users or just your own user account. For a MacOSX all users install, the path should be something like `/anaconda3/envs/neuroS2019/python`. The same on Windows should be something like `C:\ProgramData\Anaconda3\envs\neuroS2019\python`. If you installed for your own account only the path may be in your user directory (e.g. `/Users/USERNAME/anaconda3/envs/neuroS2019/python`). You may have to restart Spyder.
+2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab. JupyterLab is a web-based python notebook and Spyder is an environment for runnin Python that is similar to MATLAB.
 
 ## Install R (optional)
 1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
