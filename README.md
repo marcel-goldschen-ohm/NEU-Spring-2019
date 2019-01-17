@@ -48,10 +48,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * p-value
     * t-test
     * Confidence interval
+    * Hypothesis testing
 * Jan 31 (#04) Probability Distributions
     * Bootstrap
     * Maximum Likelihood
-    * Hypothesis testing
     * Example problems
 * Feb 05 (#05) Statistical Inference Overview
     * Bird's-eye view of modern statistical inference
