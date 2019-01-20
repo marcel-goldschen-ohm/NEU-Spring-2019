@@ -132,3 +132,4 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com)
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com)
 * [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
+* [Alex Huth's lectures on Neuro Data Analysis in Python](https://github.com/alexhuth/ndap-fa2018)
