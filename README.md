@@ -127,9 +127,10 @@ UT students have free access to MATLAB.
 Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at https://matlab.mathworks.com.
 
 ## Resources
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
-* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-* [Computational and Inferential Thinking](https://www.inferentialthinking.com)
-* [Statistics Done Wrong](https://www.statisticsdonewrong.com)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Python basics.
+* [Fundamentals of Statistics and Computation for Neuroscientists](https://www.youtube.com/channel/UCH4dGK2uaTQcErmsyoJY9Dg): Awesome colleciton of youtube videos! Highly recommend.
+* [Statistics Done Wrong](https://www.statisticsdonewrong.com): MUST READ!!!
 * [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
-* [Alex Huth's lectures on Neuro Data Analysis in Python](https://github.com/alexhuth/ndap-fa2018)
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice introduction to some fairly complex statistical methods with very little math.
+* [Computational and Inferential Thinking](https://www.inferentialthinking.com)
+* [Alex Huth's lectures on Neuro Data Analysis in Python](https://github.com/alexhuth/ndap-fa2018): Lecture notes for another class on Python for neuroscientists.
