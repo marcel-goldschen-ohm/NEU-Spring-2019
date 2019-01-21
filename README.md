@@ -131,6 +131,6 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 * [Fundamentals of Statistics and Computation for Neuroscientists](https://www.youtube.com/channel/UCH4dGK2uaTQcErmsyoJY9Dg): Awesome colleciton of youtube videos!
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com): MUST READ!!!
 * [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
-* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice introduction to some fairly complex statistical methods with very little math.
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math.
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com)
 * [Alex Huth's lectures on Neuro Data Analysis in Python](https://github.com/alexhuth/ndap-fa2018): Lecture notes for another class on Python for neuroscientists.
