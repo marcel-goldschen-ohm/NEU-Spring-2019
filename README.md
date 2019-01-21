@@ -128,7 +128,7 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 
 ## Resources
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Python basics.
-* [Fundamentals of Statistics and Computation for Neuroscientists](https://www.youtube.com/channel/UCH4dGK2uaTQcErmsyoJY9Dg): Awesome colleciton of youtube videos! Highly recommend.
+* [Fundamentals of Statistics and Computation for Neuroscientists](https://www.youtube.com/channel/UCH4dGK2uaTQcErmsyoJY9Dg): Awesome colleciton of youtube videos!
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com): MUST READ!!!
 * [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice introduction to some fairly complex statistical methods with very little math.
