@@ -12,13 +12,13 @@ Like many other fields that rely on statistical analyses to understand complex s
 * I hope that you will have fun!
 
 ## Office Hours (subject to change, so check here first!)
-???
+TTH 3:30-5:00
 
 TA: ???
 
 ## Homework
 1. Random Walk Lab - due before class on Jan 29
-2. Probability Distributions Lab - due before class on Feb 05
+2. Probability Distributions - due before class on Feb 05
 
 ## Grading
 * 50% Homework
@@ -67,17 +67,17 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * F-test
     * Correlated error
     * Interaction terms
+* Feb 14 (#08) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 14 (#08) Cross Validation
-* Feb 19 (#09) Regression Lab
-* Feb 21 (#10) Clustering
-* Feb 26 (#11) Clustering Lab
-* Feb 28 (#12) 
-* Mar 05 (#13) 
+* Feb 19 (#09) Cross Validation
+* Feb 21 (#10) Regression Lab
+* Feb 26 (#11) Principal Component Analysis
+* Feb 28 (#12) Clustering
+* Mar 05 (#13) Clustering
 * Mar 07 (#14) 
-* Mar 12 (#15) 
-* Mar 14 (#16) 
+* Mar 12 (#15) Review
+* Mar 14 (#16) Midterm?
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
 * Mar 26 (#17) Time Series
@@ -86,10 +86,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Convolution
     * Fourier analysis
 * Mar 28 (#18) Time Series
-* Apr 02 (#19) Hodgkin-Huxley Excitable Cell Model
-* Apr 04 (#20) Hidden Markov Models
-* Apr 09 (#21) 
-* Apr 11 (#22) 
+* Apr 02 (#19) Features
+* Apr 04 (#20) Hodgkin-Huxley Excitable Cell Model
+* Apr 09 (#21) Hidden Markov Models
+* Apr 11 (#22) Hidden Markov Models
 * Apr 16 (#23) 
 * Apr 18 (#24) 
 * Apr 23 (#25) 
@@ -97,13 +97,13 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Apr 30 (#27) 
 * May 02 (#28) 
 * May 07 (#29) 
-* May 09 (#30) 
-* May ?? - FINAL (maybe take home)
+* May 09 (#30) Review
+* May ?? - FINAL
 
 ## Install Python (required)
 There are many ways to install python. This is one way.
 
-1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution. Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
+1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution (get the latest version 3.x). Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
 2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab. JupyterLab is a web-based python notebook and Spyder is an environment for runnin Python that is similar to MATLAB.
 
 ## Install R (optional)
