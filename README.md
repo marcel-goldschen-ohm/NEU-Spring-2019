@@ -12,7 +12,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 * I hope that you will have fun!
 
 ## Office Hours (subject to change, so check here first!)
-TTH 3:30-5:00
+T 3:30-5:00 PM
 
 TA: ???
 
