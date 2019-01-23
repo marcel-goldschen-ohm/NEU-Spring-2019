@@ -17,8 +17,8 @@ T 3:30-5:00 PM
 TA: ???
 
 ## Homework
-1. Random Walk Lab - due before class on Jan 29
-2. Probability Distributions - due before class on Feb 05
+1. Random Walk Lab - due before midnight on Jan 29
+2. Probability Distributions - due before midnight on Feb 05
 
 ## Grading
 * 50% Homework
