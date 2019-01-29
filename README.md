@@ -14,11 +14,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 ## Office Hours (subject to change, so check here first!)
 T 3:30-5:00 PM
 
-TA: ???
-
-## Homework
-1. Random Walk Lab - due before midnight on Jan 29
-2. Probability Distributions - due before midnight on Feb 05
+TA: Check canvas
 
 ## Grading
 * 50% Homework
@@ -39,45 +35,46 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Manipulate and visualize multi-dimensional arrays
     * Coding good practices
     * Timing and efficient code
-* Jan 29 (#03) Probability Distributions
+* Jan 29 (#03) Numpy and Matplotlib
+    * Examples and excercises
+* Jan 31 (#04) Probability Distributions
     * Discrete Probability Functions: e.g. Bernoulli, Binomial, Poisson
     * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
     * Sample vs Distribution, e.g. Mean, Variance
     * Central limit theorem
+    * Confidence interval
+    * Maximum Likelihood
+* Feb 05 (#04) Probability Distributions
+    * Hypothesis testing
     * z-score
     * p-value
     * t-test
-    * Confidence interval
-    * Hypothesis testing
-* Jan 31 (#04) Probability Distributions
     * Bootstrap
-    * Maximum Likelihood
     * Example problems
-* Feb 05 (#05) Statistical Inference Overview
+* Feb 07 (#06) Statistical Inference Overview
     * Bird's-eye view of modern statistical inference
     * *Suggested prior reading:* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning
-* Feb 07 (#06) Linear Regression
+* Feb 12 (#06) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 12 (#07) Linear Regression
+* Feb 14 (#07) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Feb 14 (#08) Nonlinear regression
+* Feb 19 (#08) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 19 (#09) Cross Validation
-* Feb 21 (#10) Regression Lab
-* Feb 26 (#11) Principal Component Analysis
-* Feb 28 (#12) Clustering
-* Mar 05 (#13) Clustering
-* Mar 07 (#14) 
-* Mar 12 (#15) Review
-* Mar 14 (#16) Midterm?
+* Feb 21 (#09) Cross Validation
+* Feb 26 (#10) Regression Lab
+* Feb 28 (#11) Principal Component Analysis
+* Mar 05 (#12) Clustering
+* Mar 07 (#13) Clustering
+* Mar 12 (#14) Review
+* Mar 14 (#15) Midterm?
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
 * Mar 26 (#17) Time Series
@@ -125,6 +122,13 @@ UT students have free access to MATLAB.
 3. Sign in to your mathworks account and you should see a license from UT is available to you. Use that license to download MATLAB (version 2018a or 2018b). Then run the installer. If you can afford the space (~23 GB) *get all the toolboxes that you can*. If not, *get at least those toolboxes listed at https://www.mathworks.com/products.html under the MATLAB product family sections 'Math, Statistics, and Optimization', 'Signal Processing', 'Image Processing' and 'Computational Biology'.*
 
 Note, once you've registered you can also use MATLAB via an online interface that mimicks the application environment at https://matlab.mathworks.com.
+
+## Install GitHub Desktop
+
+1. Go to https://desktop.github.com and download the GitHub Desktop app.
+2. Open the app and select File->Clone Repository. Select URL and enter the URL of this repository (https://github.com/marcel-goldschen-ohm/CompNeuroSpring2019), then click 'Clone'. This will download all of the files in this repository to a folder on your computer. To navigate to the folder from GitHub Desktop select Repository->Show in Finder (that's for MacOS, wording may differ on Windows machines).
+3. Whenever you want to make sure that you have the latest version of all files ont he repository, select Repository->Pull to download ONLY what has changed since the last time you downloaded the repository.
+4. *To make sure you do not overwrite any homework assignment files, I recommend copying all of the homeworks into a separate folder on your computer rather than editing the files directly in the GitHub repository folder.*
 
 ## Resources
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Python basics.
