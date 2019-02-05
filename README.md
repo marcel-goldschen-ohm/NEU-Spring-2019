@@ -42,39 +42,36 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
     * Sample vs Distribution, e.g. Mean, Variance
     * Central limit theorem
-    * Confidence interval
+* Feb 05 (#05) Maximum Likelihood
     * Maximum Likelihood
-* Feb 05 (#04) Probability Distributions
-    * Hypothesis testing
+    * Confidence interval
+    * Bootstrap
+* Feb 07 (#06) Hypothesis testing
     * z-score
     * p-value
     * t-test
-    * Bootstrap
-    * Example problems
-* Feb 07 (#06) Statistical Inference Overview
-    * Bird's-eye view of modern statistical inference
-    * *Suggested prior reading:* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) Chapter 2: Statistical Learning
-* Feb 12 (#06) Linear Regression
+    * KS-test
+* Feb 12 (#07) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 14 (#07) Linear Regression
+* Feb 14 (#08) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Feb 19 (#08) Nonlinear regression
+* Feb 19 (#09) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 21 (#09) Cross Validation
-* Feb 26 (#10) Regression Lab
-* Feb 28 (#11) Principal Component Analysis
-* Mar 05 (#12) Clustering
-* Mar 07 (#13) Clustering
-* Mar 12 (#14) Review
-* Mar 14 (#15) Midterm?
+* Feb 21 (#10) Cross Validation
+* Feb 26 (#11) Regression Lab
+* Feb 28 (#12) Principal Component Analysis
+* Mar 05 (#13) Clustering
+* Mar 07 (#14) Clustering
+* Mar 12 (#15) Review
+* Mar 14 (#16) Midterm?
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
 * Mar 26 (#17) Time Series
