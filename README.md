@@ -42,7 +42,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Continuous Probability Density Functions: e.g. Uniform, Gaussian/Normal, Exponential
     * Sample vs Distribution, e.g. Mean, Variance
     * Central limit theorem
-* Feb 05 (#05) Maximum Likelihood
+* Feb 05 (#05) Maximum Likelihood and Bootstrap
     * Maximum Likelihood
     * Confidence interval
     * Bootstrap
