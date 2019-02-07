@@ -12,7 +12,7 @@ Like many other fields that rely on statistical analyses to understand complex s
 * I hope that you will have fun!
 
 ## Office Hours (subject to change, so check here first!)
-T 3:30-5:00 PM
+T 3:30-5:00 PM in NHB 4.352 (also check conference room 4.402)
 
 TA: Check canvas
 
@@ -46,27 +46,27 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Maximum Likelihood
     * Confidence interval
     * Bootstrap
-* Feb 07 (#06) Hypothesis testing
+* Feb 07 (#06) Review
+* Feb 12 (#07) Hypothesis testing
     * z-score
     * p-value
     * t-test
     * KS-test
-* Feb 12 (#07) Linear Regression
+* Feb 14 (#08) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 14 (#08) Linear Regression
+* Feb 19 (#09) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Feb 19 (#09) Nonlinear regression
+* Feb 21 (#10) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 21 (#10) Cross Validation
-* Feb 26 (#11) Regression Lab
+* Feb 26 (#11) Cross Validation
 * Feb 28 (#12) Principal Component Analysis
 * Mar 05 (#13) Clustering
 * Mar 07 (#14) Clustering
