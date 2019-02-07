@@ -43,7 +43,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Sample vs Distribution, e.g. Mean, Variance
     * Central limit theorem
 * Feb 05 (#05) Maximum Likelihood and Bootstrap
-    * P(model|data) vs. P(data|model)
+    * P(model | data) vs. P(data | model)
     * Likelihood
     * Maximum Likelihood Estimation
     * Confidence interval
