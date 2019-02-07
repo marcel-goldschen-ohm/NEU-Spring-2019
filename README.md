@@ -44,6 +44,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Central limit theorem
 * Feb 05 (#05) Maximum Likelihood and Bootstrap
     * Maximum Likelihood
+    * Maximum Likelihood Estimation
     * Confidence interval
     * Bootstrap
 * Feb 07 (#06) Review
