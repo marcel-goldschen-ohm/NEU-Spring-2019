@@ -130,7 +130,8 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 4. *To make sure you do not overwrite any homework assignment files, I recommend copying all of the homeworks into a separate folder on your computer rather than editing the files directly in the GitHub repository folder.*
 
 ## Resources
-* [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017)
+* [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017): Great collection of lots of info.
+* [Interactive Python Course](http://interactivepython.org/courselib/static/thinkcspy/toc.html#t-o-c): Python basics course.
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Python basics.
 * [Hypothesis Testing and p-Values](https://www.youtube.com/watch?v=TuYxeEZYkQ4): Youtube video.
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com): MUST READ!!!
