@@ -133,6 +133,7 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017): Great collection of lots of info.
 * [Interactive Python Course](http://interactivepython.org/courselib/static/thinkcspy/toc.html#t-o-c): Python basics course.
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Python basics.
+* [Python Challenges](http://www.pythonchallenge.com): Fun!
 * [Hypothesis Testing and p-Values](https://www.youtube.com/watch?v=TuYxeEZYkQ4): Youtube video.
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com): MUST READ!!!
 * [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
