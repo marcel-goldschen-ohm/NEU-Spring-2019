@@ -53,24 +53,26 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * z-score
     * p-value
     * t-test
-    * KS-test
-* Feb 14 (#08) Linear Regression
+    * KS-test (we didn't get to this in class)
+* Feb 14 (#08) Optimization
+    * Curve fitting
+    * Nonlinear optimization of single or multiple variables
+* Feb 19 (#09) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 19 (#09) Linear Regression
+* Feb 21 (#10) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Feb 21 (#10) Nonlinear regression
+* Feb 26 (#11) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 26 (#11) Cross Validation
-* Feb 28 (#12) Principal Component Analysis
-* Mar 05 (#13) Clustering
+* Feb 28 (#12) Cross Validation
+* Mar 05 (#13) Principal Component Analysis
 * Mar 07 (#14) Clustering
 * Mar 12 (#15) Review
 * Mar 14 (#16) Midterm?
