@@ -57,41 +57,46 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Feb 14 (#08) Optimization
     * Curve fitting
     * Nonlinear optimization of single or multiple variables
-* Feb 19 (#09) Linear Regression
+* Feb 19 (#09) Optimization
+* Feb 21 (#10) Review
+    * Probability distributions
+    * Maximum Likelihood
+    * Bootstrap
+    * Hypothesis testing
+    * Optimization
+* Feb 26 (#11) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 21 (#10) Linear Regression
+* Feb 28 (#12) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Feb 26 (#11) Nonlinear regression
+* Mar 05 (#13) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Feb 28 (#12) Cross Validation
-* Mar 05 (#13) Principal Component Analysis
-* Mar 07 (#14) Clustering
+* Mar 07 (#14) 
 * Mar 12 (#15) Review
 * Mar 14 (#16) Midterm?
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
-* Mar 26 (#17) Time Series
+* Mar 26 (#17) Cross Validation
+* Mar 28 (#18) Principal Component Analysis
+* Apr 02 (#19) Principal Component Analysis
+* Apr 04 (#20) Clustering
+* Apr 09 (#21) Clustering
+* Apr 11 (#22) Time Series
     * Sampling
     * Filtering
     * Convolution
     * Fourier analysis
-* Mar 28 (#18) Time Series
-* Apr 02 (#19) Features
-* Apr 04 (#20) Hodgkin-Huxley Excitable Cell Model
-* Apr 09 (#21) Hidden Markov Models
-* Apr 11 (#22) Hidden Markov Models
-* Apr 16 (#23) 
-* Apr 18 (#24) 
-* Apr 23 (#25) 
-* Apr 25 (#26) 
+* Apr 16 (#23) Features
+* Apr 18 (#24) Hodgkin-Huxley Excitable Cell Model
+* Apr 23 (#25) Hidden Markov Models
+* Apr 25 (#26) Hidden Markov Models
 * Apr 30 (#27) 
 * May 02 (#28) 
 * May 07 (#29) 
