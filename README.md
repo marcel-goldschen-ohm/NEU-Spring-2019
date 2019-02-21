@@ -78,7 +78,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Mar 05 (#13) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Mar 07 (#14) 
+* Mar 07 (#14) Regression
 * Mar 12 (#15) Review
 * Mar 14 (#16) Midterm?
 * Mar 19 - SPRING BREAK
