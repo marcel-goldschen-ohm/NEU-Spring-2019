@@ -62,24 +62,25 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Probability distributions
     * Maximum Likelihood
     * Bootstrap
-    * Hypothesis testing
     * Optimization
-* Feb 26 (#11) Linear Regression
+* Feb 26 (#11) Hypothesis testing
+    * Review t-test
+    * Permutation test
+* Feb 28 (#12) Linear Regression
     * Correlation
     * R^2
     * Outliers
     * Leverage
     * Nonconstant variance
-* Feb 28 (#12) Linear Regression
+* Mar 05 (#13) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Mar 05 (#13) Nonlinear regression
+* Mar 07 (#14) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Mar 07 (#14) Regression
-* Mar 12 (#15) Review
+* Mar 12 (#15) Regression
 * Mar 14 (#16) Midterm?
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
