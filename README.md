@@ -73,34 +73,37 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Leverage
     * Nonconstant variance
 * Mar 05 (#13) Linear Regression
+    * Confidence intervals
+* Mar 07 (#14) Linear regression
+    * Confidence intervals
+    * Bootstrap
+* Mar 12 (#15) Review
+* Mar 14 (#16) Midterm
+* Mar 19 - SPRING BREAK
+* Mar 21 - SPRING BREAK
+* Mar 26 (#17) Linear Regression
     * Multiple Linear Regression
     * F-test
     * Correlated error
     * Interaction terms
-* Mar 07 (#14) Nonlinear regression
+* Mar 28 (#18) Nonlinear regression
     * Polynomial regression
     * Nonparametric KNN regression
-* Mar 12 (#15) Regression
-* Mar 14 (#16) Midterm?
-* Mar 19 - SPRING BREAK
-* Mar 21 - SPRING BREAK
-* Mar 26 (#17) Cross Validation
-* Mar 28 (#18) Principal Component Analysis
-* Apr 02 (#19) Principal Component Analysis
-* Apr 04 (#20) Clustering
-* Apr 09 (#21) Clustering
-* Apr 11 (#22) Time Series
+* Apr 02 (#19) 
+* Apr 04 (#20) 
+* Apr 09 (#21) 
+* Apr 11 (#22) 
+* Apr 16 (#23) Cross Validation
+* Apr 18 (#24) Principal Component Analysis
+* Apr 23 (#25) Clustering
+* Apr 25 (#26) Time Series
     * Sampling
     * Filtering
     * Convolution
     * Fourier analysis
-* Apr 16 (#23) Features
-* Apr 18 (#24) Hodgkin-Huxley Excitable Cell Model
-* Apr 23 (#25) Hidden Markov Models
-* Apr 25 (#26) Hidden Markov Models
-* Apr 30 (#27) 
-* May 02 (#28) 
-* May 07 (#29) 
+* Apr 30 (#27) Features
+* May 02 (#28) Hodgkin-Huxley Excitable Cell Model
+* May 07 (#29) Hidden Markov Models
 * May 09 (#30) Review
 * May ?? - FINAL
 
