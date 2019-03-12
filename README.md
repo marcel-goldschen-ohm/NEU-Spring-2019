@@ -18,7 +18,7 @@ TA: Check canvas
 
 ## Grading
 * 50% Homework
-* 25% Midterm (I may opt to forego this, in which case it will be folded into the homework and final)
+* 25% Midterm
 * 25% Final
 
 ## Syllabus
