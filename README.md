@@ -105,7 +105,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * May 02 (#28) Hodgkin-Huxley Excitable Cell Model
 * May 07 (#29) Hidden Markov Models
 * May 09 (#30) Review
-* May ?? - FINAL
+* May 17 - FINAL 2-5 pm in RLP 1.106
 
 ## Install Python (required)
 There are many ways to install python. This is one way.
