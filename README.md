@@ -82,8 +82,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
 * Mar 26 (#17) Multiple Linear Regression
+    * Pandas data frames
     * Data preprocessing: feature normalization
     * Correlated features
+    * Ordinary least squares multiple linear regression
 * Mar 28 (#18) Multiple Linear Regression
     * Ridge Regularization
     * Cross Validation
