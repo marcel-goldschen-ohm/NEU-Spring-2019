@@ -81,15 +81,13 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Mar 14 (#16) Midterm
 * Mar 19 - SPRING BREAK
 * Mar 21 - SPRING BREAK
-* Mar 26 (#17) Linear Regression
-    * Multiple Linear Regression
-    * F-test
-    * Correlated error
-    * Interaction terms
-* Mar 28 (#18) Nonlinear regression
-    * Polynomial regression
-    * Nonparametric KNN regression
-* Apr 02 (#19) 
+* Mar 26 (#17) Multiple Linear Regression
+    * Data preprocessing: feature normalization
+    * Correlated features
+* Mar 28 (#18) Multiple Linear Regression
+    * Ridge Regularization
+    * Cross Validation
+* Apr 02 (#19) Nonparametric KNN regression
 * Apr 04 (#20) 
 * Apr 09 (#21) 
 * Apr 11 (#22) 
