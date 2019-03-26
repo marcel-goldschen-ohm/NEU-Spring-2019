@@ -87,6 +87,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Correlated features
     * Ordinary least squares multiple linear regression
 * Mar 28 (#18) Multiple Linear Regression
+    * Bias-Variance Tradeoff
     * Ridge Regularization
     * Cross Validation
 * Apr 02 (#19) Nonparametric KNN regression
