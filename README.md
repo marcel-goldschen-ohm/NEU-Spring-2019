@@ -86,25 +86,42 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Data preprocessing: feature normalization
     * Correlated features
     * Ordinary least squares multiple linear regression
-* Mar 28 (#18) Multiple Linear Regression
+* Mar 28 (#18) Regularization
+    * Ordinary least squares regression
+    * Ridge regression
+* Apr 02 (#19) Cross Validation
     * Bias-Variance Tradeoff
-    * Ridge Regularization
+    * Training vs. testing sets
     * Cross Validation
-* Apr 02 (#19) Nonparametric KNN regression
-* Apr 04 (#20) 
-* Apr 09 (#21) 
-* Apr 11 (#22) 
-* Apr 16 (#23) Cross Validation
-* Apr 18 (#24) Principal Component Analysis
-* Apr 23 (#25) Clustering
-* Apr 25 (#26) Time Series
-    * Sampling
+* Apr 04 (#20) Nonparametric KNN regression
+* Apr 09 (#21) Principal Component Analysis
+* Apr 11 (#22) Classification
+    * k-means clustering
+    * Unsupervised clustering
+    * Objective functions e.g. BIC
+* Apr 16 (#23) Time Series
+    * Sampling, Nyquist frequency, Aliasing
+    * Autocorrelation
     * Filtering
     * Convolution
+* Apr 18 (#24) Filtering
     * Fourier analysis
-* Apr 30 (#27) Features
-* May 02 (#28) Hodgkin-Huxley Excitable Cell Model
-* May 07 (#29) Hidden Markov Models
+    * Power spectrum
+    * Spectrograms
+    * Subsampling, Antialiasing
+* Apr 23 (#25) Hodgkin-Huxley Model
+* Apr 25 (#26) Hodgkin-Huxley Model
+* Apr 30 (#27) Single Molecule Analysis
+    * Hidden Markov Models
+    * Rate constants
+    * Amplitude distributions
+    * Dwell time distributions
+* May 02 (#28) Single Molecule Analysis
+    * How many states?
+    * Viterbi
+    * EM
+    * iHMM
+* May 07 (#29) 
 * May 09 (#30) Review
 * May 17 - FINAL 2-5 pm in RLP 1.106
 
