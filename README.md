@@ -169,3 +169,4 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math.
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com)
 * [Alex Huth's lectures on Neuro Data Analysis in Python](https://github.com/alexhuth/ndap-fa2018): Lecture notes for another class on Python for neuroscientists.
+* [Linear regression and validation](https://dziganto.github.io/deep%20learning): Some nice explanations of linear regression and cross validation with Python examples.
