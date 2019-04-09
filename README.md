@@ -94,34 +94,34 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Training vs. testing sets
     * Cross Validation
 * Apr 04 (#20) Nonparametric KNN regression
-* Apr 09 (#21) Principal Component Analysis
-* Apr 11 (#22) Classification
+* Apr 09 (#21) Object Oriented Programming (OOP)
+* Apr 11 (#22) 
+* Apr 16 (#23) Principal Component Analysis
+* Apr 18 (#24) Classification
     * k-means clustering
     * Unsupervised clustering
     * Objective functions e.g. BIC
-* Apr 16 (#23) Time Series
+* Apr 23 (#25) Time Series
     * Sampling, Nyquist frequency, Aliasing
     * Autocorrelation
     * Filtering
     * Convolution
-* Apr 18 (#24) Filtering
+* Apr 25 (#26) Filtering
     * Fourier analysis
     * Power spectrum
     * Spectrograms
     * Subsampling, Antialiasing
-* Apr 23 (#25) Hodgkin-Huxley Model
-* Apr 25 (#26) Hodgkin-Huxley Model
-* Apr 30 (#27) Single Molecule Analysis
+* Apr 30 (#27) Hodgkin-Huxley Model
+* May 02 (#28) Single Molecule Analysis
     * Hidden Markov Models
     * Rate constants
     * Amplitude distributions
     * Dwell time distributions
-* May 02 (#28) Single Molecule Analysis
+* May 07 (#29) Single Molecule Analysis
     * How many states?
     * Viterbi
     * EM
     * iHMM
-* May 07 (#29) 
 * May 09 (#30) Review
 * May 17 - FINAL 2-5 pm in RLP 1.106
 
