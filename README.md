@@ -95,6 +95,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Cross Validation
 * Apr 04 (#20) Nonparametric KNN regression
 * Apr 09 (#21) Object Oriented Programming (OOP)
+    * classes
 * Apr 11 (#22) More python
     * modules
     * list comprehensions
