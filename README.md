@@ -99,6 +99,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * modules
     * list comprehensions
     * generators
+    * zip
+    * unpacking
     * lambdas
     * Numba
 * Apr 16 (#23) Principal Component Analysis
