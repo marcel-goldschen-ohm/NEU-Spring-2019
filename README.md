@@ -119,17 +119,18 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * Power spectrum
     * Spectrograms
     * Subsampling, Antialiasing
-* Apr 30 (#27) Hodgkin-Huxley Model
+* Apr 30 (#27) Time Series
 * May 02 (#28) Single Molecule Analysis
     * Hidden Markov Models
     * Rate constants
     * Amplitude distributions
     * Dwell time distributions
-* May 07 (#29) Single Molecule Analysis
-    * How many states?
+    * Filtering
+* May 07 (#29) Hidden Markov Models
+    * Loglikelihood
+    * State clustering
+    * Baum Welch Expectation Maximization
     * Viterbi
-    * EM
-    * iHMM
 * May 09 (#30) Review
 * May 17 - FINAL 2-5 pm in RLP 1.106
 
