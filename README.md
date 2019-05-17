@@ -138,7 +138,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 There are many ways to install python. This is one way.
 
 1. Go to https://www.anaconda.com/download and download the Anaconda Python distribution (get the latest version 3.x). Just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
-2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab. JupyterLab is a web-based python notebook and Spyder is an environment for runnin Python that is similar to MATLAB.
+2. Launch Anaconda Navigator. Install JupyterLab and Spyder via the widgets in the Home tab. JupyterLab is a web-based python notebook and Spyder is an environment for running Python that is similar to MATLAB.
 
 ## Install R (optional)
 1. Go to https://cran.revolutionanalytics.com/index.html and download R. Run the installer.
